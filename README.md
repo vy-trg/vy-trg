@@ -1,68 +1,50 @@
-# Hi there, I'm Truong Vy 👋
+# Queensland Railway Map
 
-Welcome to my GitHub profile! I'm a passionate developer exploring the intersections of technology, infrastructure, and software engineering. This space is dedicated to my projects, ideas, and contributions to the tech community.
+An interactive visualization of Queensland's railway network built with p5.js.
 
-## 🚀 About Me
+## 🌐 Live Demo
 
-I'm enthusiastic about building scalable systems, working with modern technologies, and solving complex problems through code. My interests span across full-stack development, cloud infrastructure, and data engineering.
+Visit the live site here: **[https://vy-trg.github.io/qld-railway-map/](https://vy-trg.github.io/qld-railway-map/)**
 
-## 💻 Tech Stack
+## 📋 About
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | JavaScript/TypeScript, Python, Go, SQL |
-| **Frontend** | React, Vue.js, Tailwind CSS, Next.js |
-| **Backend** | Node.js, Express, FastAPI, Django |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, Kubernetes, AWS, GitHub Actions |
-| **Tools & Platforms** | Git, Linux, VSCode, Figma |
+This project is an interactive map showcasing Queensland's railway system. It uses:
+- **p5.js** for graphics and visualization
+- **p5.play** for game mechanics and sprite handling
+- **GeoJSON data** for railway routes and stations
 
-## 📚 Featured Projects
+## 🚀 Getting Started
 
-### [Queensland Railway Map](https://github.com/vy-trg/qld-railway-map)
-*Reference implementation for transport infrastructure visualization*
+### Open Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vy-trg/qld-railway-map.git
+   cd qld-railway-map
+   ```
 
-A comprehensive mapping solution showcasing Queensland's railway network with interactive features and real-time data integration. This project demonstrates expertise in:
-- Geospatial data visualization
-- Real-time system architecture
-- Performance optimization for large datasets
+2. Open `q2.html` in your web browser to view the interactive map.
 
-| Aspect | Details |
-|--------|---------|
-| **Repository** | [qld-railway-map](https://github.com/vy-trg/qld-railway-map) |
-| **Live Demo** | [vy-trg.github.io/qld-railway-map](https://vy-trg.github.io/qld-railway-map/) |
-| **Tech Stack** | React, MapBox GL, Node.js, PostgreSQL |
-| **Key Features** | Interactive mapping, Route optimization, Real-time updates |
-| **Status** | Active Development |
+### View Online
+Simply visit the [GitHub Pages deployment](https://vy-trg.github.io/qld-railway-map/) for the live version.
 
-## 🎯 What I'm Working On
+## 📁 Project Structure
 
-- 🔧 Building robust backend systems and APIs
-- 📊 Exploring data visualization and analytics
-- 🌐 Diving deeper into distributed systems
-- 🚀 Optimizing performance across the stack
+- `q2.html` - Main entry point for the interactive map
+- `js/q2.js` - JavaScript logic for the visualization
+- `railways.geojson` - Railway network data
+- `p5playv2/` - p5.play library for sprite and physics handling
+- `images/` - Icon and other image assets
 
-## 📊 GitHub Stats
+## 🎮 Features
 
-![GitHub Stats](https://img.shields.io/badge/Repositories-Active-brightgreen)
+- Interactive visualization of Queensland's railway network
+- Built with p5.js for smooth, responsive graphics
+- Uses GeoJSON for accurate railway data representation
 
-## 🤝 Let's Connect
+## 📝 License
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/truongvy]
-- 🐦 Twitter: [@truongvy]
-- 🌐 Portfolio: [your-portfolio.com]
-
-## 💡 Open to Collaboration
-
-I'm always excited to collaborate on interesting projects! Whether you're working on:
-- Infrastructure automation
-- Data engineering challenges
-- Full-stack applications
-- Open-source contributions
-
-Feel free to reach out or check out my repositories below.
+This project is part of course work for 1701ICT.
 
 ---
 
-*Last updated: April 2026*
+**Repository**: [github.com/vy-trg/qld-railway-map](https://github.com/vy-trg/qld-railway-map)
