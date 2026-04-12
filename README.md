@@ -19,7 +19,7 @@ I'm enthusiastic about building scalable systems, working with modern technologi
 
 ## 📚 Featured Projects
 
-### [Queensland Railway Map](https://github.com/thituongvytruong-cpu/qld-railway-map)
+### [Queensland Railway Map](https://github.com/vy-trg/qld-railway-map)
 *Reference implementation for transport infrastructure visualization*
 
 A comprehensive mapping solution showcasing Queensland's railway network with interactive features and real-time data integration. This project demonstrates expertise in:
@@ -29,7 +29,8 @@ A comprehensive mapping solution showcasing Queensland's railway network with in
 
 | Aspect | Details |
 |--------|---------|
-| **Repository** | [qld-railway-map](https://github.com/thituongvytruong-cpu/qld-railway-map) |
+| **Repository** | [qld-railway-map](https://github.com/vy-trg/qld-railway-map) |
+| **Live Demo** | [vy-trg.github.io/qld-railway-map](https://vy-trg.github.io/qld-railway-map/) |
 | **Tech Stack** | React, MapBox GL, Node.js, PostgreSQL |
 | **Key Features** | Interactive mapping, Route optimization, Real-time updates |
 | **Status** | Active Development |
