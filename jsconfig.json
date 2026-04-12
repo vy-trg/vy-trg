@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "commonjs"
+      
+    },
+    "target": "es6", 
+    "exclude": ["p5","play","../../how to use html( instructions).html/lib/p5"],
+    "include": ["*.js", "../../how to use html( instructions).html/lib/*.d.ts", "../../week1/sketch.js", "js/q1.js"], 
+    "baseUrl": ".", 
+    "paths": {
+      "*": ["*","lib/"]
+    },
+    "checkJs": true
+  }
