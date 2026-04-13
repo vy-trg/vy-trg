@@ -24,9 +24,6 @@ Fully playable browser-based space shooter with 4 scenes, sprite collision detec
 ### Kakadu Kitchen Database System
 Relational database system built from an ER diagram using SQL and MySQL. Implements complex queries with joins, aggregations and subqueries.
 
-### VShop VR — Application System Design
-Comprehensive system design proposal for a VR shopping platform. Covers microservices architecture, UX wireframes, and emerging technology integration.
-
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/vytrg](www.linkedin.com/in/vy-trg)
 - Email: vivian.trg3@gmail.com
