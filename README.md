@@ -13,13 +13,19 @@ Second-year Bachelor of Information Technology (Software Development) student at
 
 ## 🚀 Projects
 
-### [Queensland Railway Interactive Map](https://github.com/vy-trg/qld-railway-map)
+### Queensland Railway Interactive Map
 Interactive map visualising Queensland's railway network using p5.js and GeoJSON data. Achieved perfect score 40/40.
-🌐 [Live Demo](https://vy-trg.github.io/qld-railway-map/)
+🌐 Live Demo
 
-### [Space Shooter Game](https://github.com/vy-trg/space-shooter-game)
+### Space Shooter Game
 Fully playable browser-based space shooter with 4 scenes, sprite collision detection, sound effects, and JSON-driven leaderboard.
-🌐 [Live Demo](https://vy-trg.github.io/space-shooter-game/)
+🌐 Live Demo
+
+### Kakadu Kitchen Database System
+Relational database system built from an ER diagram using SQL and MySQL. Implements complex queries with joins, aggregations and subqueries.
+
+### VShop VR — Application System Design
+Comprehensive system design proposal for a VR shopping platform. Covers microservices architecture, UX wireframes, and emerging technology integration.
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/vytrg](www.linkedin.com/in/vy-trg)
