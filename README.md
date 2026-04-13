@@ -22,5 +22,5 @@ Fully playable browser-based space shooter with 4 scenes, sprite collision detec
 🌐 [Live Demo](https://vy-trg.github.io/space-shooter-game/)
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/vytrg](https://linkedin.com/in/vytrg)
+- LinkedIn: [linkedin.com/in/vytrg](www.linkedin.com/in/vy-trg)
 - Email: vivian.trg3@gmail.com
