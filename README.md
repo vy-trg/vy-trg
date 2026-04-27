@@ -25,5 +25,5 @@ Fully playable browser-based space shooter with 4 scenes, sprite collision detec
 Relational database system built from an ER diagram using SQL and MySQL. Implements complex queries with joins, aggregations and subqueries.
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/vy-trg](www.linkedin.com/in/vy-trg)
+- LinkedIn: [linkedin.com/in/vy-trg](https://www.linkedin.com/in/vy-trg)
 - Email: vivian.trg3@gmail.com
