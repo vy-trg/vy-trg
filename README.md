@@ -15,14 +15,18 @@ Second-year Bachelor of Information Technology (Software Development) student at
 
 ### Queensland Railway Interactive Map
 Interactive map visualising Queensland's railway network using p5.js and GeoJSON data. Achieved perfect score 40/40.
-🌐 Live Demo
+🌐 [Live Demo](https://vy-trg.github.io/qld-railway-map/)
 
 ### Space Shooter Game
 Fully playable browser-based space shooter with 4 scenes, sprite collision detection, sound effects, and JSON-driven leaderboard.
-🌐 Live Demo
+🌐 [Live Demo](https://vy-trg.github.io/space-shooter-game/)
 
 ### Kakadu Kitchen Database System
 Relational database system built from an ER diagram using SQL and MySQL. Implements complex queries with joins, aggregations and subqueries.
+
+### EnergyCheck
+10-page responsive web app helping Australian renters understand and manage household electricity usage. Built with HTML, CSS, and vanilla JavaScript as Team Leader & Design Thinking Lead.
+🌐 [Live Demo](https://vy-trg.github.io/energycheck/)
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/vy-trg](https://www.linkedin.com/in/vy-trg)
