@@ -6,10 +6,11 @@ Second-year Bachelor of Information Technology (Software Development) student at
 
 | Category | Technologies |
 |---|---|
-| **Languages** | JavaScript, Python, SQL |
-| **Frontend** | HTML, CSS, p5.js |
+| **Languages** | Java, JavaScript, Python, SQL |
+| **Frontend** | HTML, CSS, p5.js, JavaFX |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, VS Code |
+| **Testing** | JUnit 5, Mockito |
+| **Tools** | Git, GitHub, GitHub Actions, Maven, IntelliJ IDEA, VS Code |
 
 ## 🚀 Projects
 
@@ -28,6 +29,10 @@ Relational database system built from an ER diagram using SQL and MySQL. Impleme
 10-page responsive web app helping Australian renters understand and manage household electricity usage. Built with HTML, CSS, and vanilla JavaScript as Team Leader & Design Thinking Lead.
 🌐 [Live Demo](https://vy-trg.github.io/energycheck/)
 
+### JavaFX Tetris
+Team-of-3 Tetris game in Java & JavaFX (MVC) with an AI player, networked external player and two-player mode. I built the core gameplay engine, the heuristic AI, two-player mode and the JUnit/Mockito test suite with GitHub Actions CI. Graded 100/100 and 96/100. 🔗 [Repository](https://github.com/vy-trg/javafx-tetris) · 📺 [Demo video](https://www.youtube.com/watch?v=xKUyLLbiOf4)
+
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/vy-trg](https://www.linkedin.com/in/vy-trg)
 - Email: vivian.trg3@gmail.com
+
