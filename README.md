@@ -7,12 +7,25 @@ Second-year Bachelor of Information Technology (Software Development) student at
 | Category | Technologies |
 |---|---|
 | **Languages** | Java, JavaScript, Python, SQL |
-| **Frontend** | HTML, CSS, p5.js, JavaFX |
-| **Database** | MySQL |
-| **Testing** | JUnit 5, Mockito |
-| **Tools** | Git, GitHub, GitHub Actions, Maven, IntelliJ IDEA, VS Code |
+| **Backend** | Node.js, Express, Socket.IO, Passport |
+| **Frontend** | HTML, CSS, Leaflet, p5.js, JavaFX, Streamlit |
+| **Database** | PostgreSQL, MySQL |
+| **Testing** | JUnit 5, Mockito, pytest, node:test |
+| **Tools** | Git, GitHub, GitHub Actions, Docker, Render, pandas, Maven, IntelliJ IDEA, VS Code |
 
 ## 🚀 Projects
+
+### Railway Live
+Live trains, buses, trams and ferries for South East Queensland. An Express server decodes TransLink's realtime feeds at most once every 30 seconds, PostgreSQL holds the timetable for 12,000+ stops, and a "Will I make my bus?" check rates any train-to-bus change. On-time history is recorded every 10 minutes by GitHub Actions.
+🌐 [Live Demo](https://railway-live.onrender.com/) · 🔗 [Repository](https://github.com/vy-trg/railway-live)
+
+### Focus Tracker
+Pomodoro timer that saves every focus session to your own account: REST API with Express and PostgreSQL, login with Passport and bcrypt, shared study rooms over Socket.IO, habits that tick themselves off, offline mode, and tests in CI on every pull request.
+🌐 [Live Demo](https://focus-tracker-2ooe.onrender.com) · 🔗 [Repository](https://github.com/vy-trg/focus-tracker)
+
+### TariffCheck
+Finds the cheapest Queensland electricity plan from real half-hourly usage, pricing flat, block and time-of-use tariffs with Decimal. Python, pandas and Streamlit, with 82 pytest tests, CI and a written test plan.
+🌐 [Live Demo](https://tariffcheck.streamlit.app/) · 🔗 [Repository](https://github.com/vy-trg/tariffcheck)
 
 ### Queensland Railway Interactive Map
 Interactive map visualising Queensland's railway network using p5.js and GeoJSON data. Achieved perfect score 40/40.
