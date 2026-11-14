@@ -15,9 +15,9 @@ Second-year Bachelor of Information Technology (Software Development) student at
 
 ## 🚀 Projects
 
-### Railway Live
+### Stopwise
 Live trains, buses, trams and ferries for South East Queensland. An Express server decodes TransLink's realtime feeds at most once every 30 seconds, PostgreSQL holds the timetable for 12,000+ stops, and a "Will I make my bus?" check rates any train-to-bus change. On-time history is recorded every 10 minutes by GitHub Actions.
-🌐 [Live Demo](https://railway-live.onrender.com/) · 🔗 [Repository](https://github.com/vy-trg/railway-live)
+🌐 [Live Demo](https://railway-live.onrender.com/) · 🔗 [Repository](https://github.com/vy-trg/stopwise)
 
 ### Focus Tracker
 Pomodoro timer that saves every focus session to your own account: REST API with Express and PostgreSQL, login with Passport and bcrypt, shared study rooms over Socket.IO, habits that tick themselves off, offline mode, and tests in CI on every pull request.
